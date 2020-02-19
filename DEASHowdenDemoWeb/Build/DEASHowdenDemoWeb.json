@@ -1,0 +1,15 @@
+{
+"companyName": "GCU",
+"productName": "DEAS Howden Demo",
+"productVersion": "0.0.2",
+"dataUrl": "DEASHowdenDemoWeb.data.unityweb",
+"wasmCodeUrl": "DEASHowdenDemoWeb.wasm.code.unityweb",
+"wasmFrameworkUrl": "DEASHowdenDemoWeb.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0f6"
+}
